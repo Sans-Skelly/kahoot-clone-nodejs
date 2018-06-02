@@ -1,5 +1,5 @@
-# kahoot-clone-n
-<h3>Kahoot Clone using Nodejs</h3>
-<h5>Summary: This game is supposed to be a clone of the popular kahoot game</h5>
-<h5>Screenshots: </h5>
+# incorrect.lol
+<h4>Welcome to incorrect.lol's backend</h4>
+<h5>It will comprise of PHP and NodeJS</h5>
+<h5>incorrect.lol is a project dedicated to misd.gs</h5>
 
